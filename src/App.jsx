@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 
-const NOTION_API = '/notion-api'
+const NOTION_API = '/api/notion'
 
 function notionFetch(path, token, options = {}) {
   return fetch(`${NOTION_API}${path}`, {
