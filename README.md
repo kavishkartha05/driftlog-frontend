@@ -39,3 +39,4 @@ The dev server proxies all Notion API calls through `/notion-api` to avoid CORS 
 ## Related
 
 - [driftlog](https://github.com/kavishkartha05/driftlog) — the main repo containing the Cloudflare Worker agent
+# force rebuild Sun May 17 11:31:54 PDT 2026
